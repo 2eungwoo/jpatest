@@ -1,4 +1,4 @@
-package com.back2basics.jpatest;
+package com.back2basics.jpatest.ver1;
 
 import java.util.List;
 import org.springframework.data.jpa.repository.JpaRepository;

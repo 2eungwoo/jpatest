@@ -1,7 +1,11 @@
 package com.back2basics.jpatest;
 
 import static org.assertj.core.api.Assertions.assertThat;
-import java.util.ArrayList;
+
+import com.back2basics.jpatest.ver1.Member;
+import com.back2basics.jpatest.ver1.MemberRepository;
+import com.back2basics.jpatest.ver1.Post;
+import com.back2basics.jpatest.ver1.PostRepository;
 import java.util.List;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
