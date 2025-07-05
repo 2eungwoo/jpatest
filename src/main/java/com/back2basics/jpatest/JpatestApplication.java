@@ -1,4 +1,4 @@
-package com.back2basics.jpatest.ver1;
+package com.back2basics.jpatest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
